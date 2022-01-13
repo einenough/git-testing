@@ -25,3 +25,13 @@
 
 // console.log(pow(2, 3));
 
+console.log('Helloxd');
+let num = {
+    first:1,
+    second:2,
+    third:3
+};
+let bum = {
+    ars:17,
+    Abr:19
+};
