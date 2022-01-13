@@ -35,3 +35,7 @@ let bum = {
     ars:17,
     Abr:19
 };
+let buuum ={
+    obj:123,
+    leter:342
+};
